@@ -1,0 +1,16 @@
+C:\Github\codingExplorations\CircleMath_ConsoleApp\CircleMath_ConsoleApp\obj\Debug\net5.0\CircleMath_ConsoleApp.csproj.AssemblyReference.cache
+C:\Github\codingExplorations\CircleMath_ConsoleApp\CircleMath_ConsoleApp\obj\Debug\net5.0\CircleMath_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\codingExplorations\CircleMath_ConsoleApp\CircleMath_ConsoleApp\obj\Debug\net5.0\CircleMath_ConsoleApp.AssemblyInfoInputs.cache
+C:\Github\codingExplorations\CircleMath_ConsoleApp\CircleMath_ConsoleApp\obj\Debug\net5.0\CircleMath_ConsoleApp.AssemblyInfo.cs
+C:\Github\codingExplorations\CircleMath_ConsoleApp\CircleMath_ConsoleApp\obj\Debug\net5.0\CircleMath_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Github\codingExplorations\CircleMath_ConsoleApp\CircleMath_ConsoleApp\bin\Debug\net5.0\CircleMath_ConsoleApp.exe
+C:\Github\codingExplorations\CircleMath_ConsoleApp\CircleMath_ConsoleApp\bin\Debug\net5.0\CircleMath_ConsoleApp.deps.json
+C:\Github\codingExplorations\CircleMath_ConsoleApp\CircleMath_ConsoleApp\bin\Debug\net5.0\CircleMath_ConsoleApp.runtimeconfig.json
+C:\Github\codingExplorations\CircleMath_ConsoleApp\CircleMath_ConsoleApp\bin\Debug\net5.0\CircleMath_ConsoleApp.runtimeconfig.dev.json
+C:\Github\codingExplorations\CircleMath_ConsoleApp\CircleMath_ConsoleApp\bin\Debug\net5.0\CircleMath_ConsoleApp.dll
+C:\Github\codingExplorations\CircleMath_ConsoleApp\CircleMath_ConsoleApp\bin\Debug\net5.0\CircleMath_ConsoleApp.pdb
+C:\Github\codingExplorations\CircleMath_ConsoleApp\CircleMath_ConsoleApp\obj\Debug\net5.0\CircleMath_ConsoleApp.dll
+C:\Github\codingExplorations\CircleMath_ConsoleApp\CircleMath_ConsoleApp\obj\Debug\net5.0\refint\CircleMath_ConsoleApp.dll
+C:\Github\codingExplorations\CircleMath_ConsoleApp\CircleMath_ConsoleApp\obj\Debug\net5.0\CircleMath_ConsoleApp.pdb
+C:\Github\codingExplorations\CircleMath_ConsoleApp\CircleMath_ConsoleApp\obj\Debug\net5.0\CircleMath_ConsoleApp.genruntimeconfig.cache
+C:\Github\codingExplorations\CircleMath_ConsoleApp\CircleMath_ConsoleApp\obj\Debug\net5.0\ref\CircleMath_ConsoleApp.dll
