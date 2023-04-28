@@ -1,0 +1,15 @@
+C:\Github\codingExplorations\3-1-4-Final-Code\UsingDeckClass\UsingDeckClass\bin\Debug\net6.0\UsingDeckClass.exe
+C:\Github\codingExplorations\3-1-4-Final-Code\UsingDeckClass\UsingDeckClass\bin\Debug\net6.0\UsingDeckClass.deps.json
+C:\Github\codingExplorations\3-1-4-Final-Code\UsingDeckClass\UsingDeckClass\bin\Debug\net6.0\UsingDeckClass.runtimeconfig.json
+C:\Github\codingExplorations\3-1-4-Final-Code\UsingDeckClass\UsingDeckClass\bin\Debug\net6.0\UsingDeckClass.dll
+C:\Github\codingExplorations\3-1-4-Final-Code\UsingDeckClass\UsingDeckClass\bin\Debug\net6.0\UsingDeckClass.pdb
+C:\Github\codingExplorations\3-1-4-Final-Code\UsingDeckClass\UsingDeckClass\obj\Debug\net6.0\UsingDeckClass.csproj.AssemblyReference.cache
+C:\Github\codingExplorations\3-1-4-Final-Code\UsingDeckClass\UsingDeckClass\obj\Debug\net6.0\UsingDeckClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\codingExplorations\3-1-4-Final-Code\UsingDeckClass\UsingDeckClass\obj\Debug\net6.0\UsingDeckClass.AssemblyInfoInputs.cache
+C:\Github\codingExplorations\3-1-4-Final-Code\UsingDeckClass\UsingDeckClass\obj\Debug\net6.0\UsingDeckClass.AssemblyInfo.cs
+C:\Github\codingExplorations\3-1-4-Final-Code\UsingDeckClass\UsingDeckClass\obj\Debug\net6.0\UsingDeckClass.csproj.CoreCompileInputs.cache
+C:\Github\codingExplorations\3-1-4-Final-Code\UsingDeckClass\UsingDeckClass\obj\Debug\net6.0\UsingDeckClass.dll
+C:\Github\codingExplorations\3-1-4-Final-Code\UsingDeckClass\UsingDeckClass\obj\Debug\net6.0\refint\UsingDeckClass.dll
+C:\Github\codingExplorations\3-1-4-Final-Code\UsingDeckClass\UsingDeckClass\obj\Debug\net6.0\UsingDeckClass.pdb
+C:\Github\codingExplorations\3-1-4-Final-Code\UsingDeckClass\UsingDeckClass\obj\Debug\net6.0\UsingDeckClass.genruntimeconfig.cache
+C:\Github\codingExplorations\3-1-4-Final-Code\UsingDeckClass\UsingDeckClass\obj\Debug\net6.0\ref\UsingDeckClass.dll

@@ -15,12 +15,12 @@ namespace UsingDeckClass
         {
             // declare and print a deck of cards
             Deck deck = new Deck();
-            //deck.Print();
+            deck.Print();
 
             // access and print Empty property
-            //bool isEmpty = deck.Empty;
-            //Console.WriteLine("Deck empty: " + isEmpty);
-            Console.WriteLine("Deck empty: " + deck.Empty);
+            bool isEmpty = deck.Empty;
+            Console.WriteLine("Deck empty: " + isEmpty);
+            // Console.WriteLine("Deck empty: " + deck.Empty);
         }
     }
 }

@@ -23,14 +23,14 @@ namespace UsingDeckClass
             //Console.WriteLine("Deck empty: " + deck.Empty);
 
             // shuffle and print deck
-            //Console.WriteLine();
-            //deck.Shuffle();
-            //deck.Print();
+           Console.WriteLine();
+           deck.Shuffle();
+           deck.Print();
 
             // cut and print deck
-            //Console.WriteLine();
-            //deck.Cut(26);
-            //deck.Print();
+              Console.WriteLine();
+              deck.Cut(26);
+              deck.Print();
 
             // take and print the top card from the deck
             Console.WriteLine();
