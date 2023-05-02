@@ -29,7 +29,7 @@ namespace Exercise9
 
             Card card1 = deck.TakeTopCard();
             Console.WriteLine(card1.Rank + " of " + card1.Suit);
-
+       
 
             // take the top card from the deck and print the card rank and suit
 

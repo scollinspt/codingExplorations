@@ -1,0 +1,17 @@
+C:\Github\codingExplorations\Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ProgrammingAssignment3.exe
+C:\Github\codingExplorations\Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ProgrammingAssignment3.deps.json
+C:\Github\codingExplorations\Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ProgrammingAssignment3.runtimeconfig.json
+C:\Github\codingExplorations\Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ProgrammingAssignment3.dll
+C:\Github\codingExplorations\Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ProgrammingAssignment3.pdb
+C:\Github\codingExplorations\Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\bin\Debug\net6.0\ConsoleCards.dll
+C:\Github\codingExplorations\Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.csproj.AssemblyReference.cache
+C:\Github\codingExplorations\Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\codingExplorations\Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.AssemblyInfoInputs.cache
+C:\Github\codingExplorations\Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.AssemblyInfo.cs
+C:\Github\codingExplorations\Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.csproj.CoreCompileInputs.cache
+C:\Github\codingExplorations\Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.csproj.CopyComplete
+C:\Github\codingExplorations\Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.dll
+C:\Github\codingExplorations\Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\refint\ProgrammingAssignment3.dll
+C:\Github\codingExplorations\Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.pdb
+C:\Github\codingExplorations\Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ProgrammingAssignment3.genruntimeconfig.cache
+C:\Github\codingExplorations\Programming-Assignment-3-Materials\ProgrammingAssignment3\ProgrammingAssignment3\obj\Debug\net6.0\ref\ProgrammingAssignment3.dll
